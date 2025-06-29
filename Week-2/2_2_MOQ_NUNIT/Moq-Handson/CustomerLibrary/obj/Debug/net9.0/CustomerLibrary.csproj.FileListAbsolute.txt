@@ -1,0 +1,12 @@
+C:\Users\KIIT\Desktop\DN-4.0-Assignments-6363303\Week-2\2_2_MOQ_NUNIT\Moq-Handson\CustomerLibrary\bin\Debug\net9.0\CustomerLibrary.deps.json
+C:\Users\KIIT\Desktop\DN-4.0-Assignments-6363303\Week-2\2_2_MOQ_NUNIT\Moq-Handson\CustomerLibrary\bin\Debug\net9.0\CustomerLibrary.dll
+C:\Users\KIIT\Desktop\DN-4.0-Assignments-6363303\Week-2\2_2_MOQ_NUNIT\Moq-Handson\CustomerLibrary\bin\Debug\net9.0\CustomerLibrary.pdb
+C:\Users\KIIT\Desktop\DN-4.0-Assignments-6363303\Week-2\2_2_MOQ_NUNIT\Moq-Handson\CustomerLibrary\obj\Debug\net9.0\CustomerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\DN-4.0-Assignments-6363303\Week-2\2_2_MOQ_NUNIT\Moq-Handson\CustomerLibrary\obj\Debug\net9.0\CustomerLibrary.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\DN-4.0-Assignments-6363303\Week-2\2_2_MOQ_NUNIT\Moq-Handson\CustomerLibrary\obj\Debug\net9.0\CustomerLibrary.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\DN-4.0-Assignments-6363303\Week-2\2_2_MOQ_NUNIT\Moq-Handson\CustomerLibrary\obj\Debug\net9.0\CustomerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\DN-4.0-Assignments-6363303\Week-2\2_2_MOQ_NUNIT\Moq-Handson\CustomerLibrary\obj\Debug\net9.0\CustomerLibrary.sourcelink.json
+C:\Users\KIIT\Desktop\DN-4.0-Assignments-6363303\Week-2\2_2_MOQ_NUNIT\Moq-Handson\CustomerLibrary\obj\Debug\net9.0\CustomerLibrary.dll
+C:\Users\KIIT\Desktop\DN-4.0-Assignments-6363303\Week-2\2_2_MOQ_NUNIT\Moq-Handson\CustomerLibrary\obj\Debug\net9.0\refint\CustomerLibrary.dll
+C:\Users\KIIT\Desktop\DN-4.0-Assignments-6363303\Week-2\2_2_MOQ_NUNIT\Moq-Handson\CustomerLibrary\obj\Debug\net9.0\CustomerLibrary.pdb
+C:\Users\KIIT\Desktop\DN-4.0-Assignments-6363303\Week-2\2_2_MOQ_NUNIT\Moq-Handson\CustomerLibrary\obj\Debug\net9.0\ref\CustomerLibrary.dll

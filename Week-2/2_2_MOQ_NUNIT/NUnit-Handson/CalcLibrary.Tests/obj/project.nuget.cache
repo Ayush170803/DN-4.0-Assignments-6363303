@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZR2JU3nClas=",
+  "dgSpecHash": "xayCyK3TYkc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\DN-4.0-Assignments-6363303\\Week-2\\2_2_MOQ_NUNIT\\Nunit-Handson\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\DN-4.0-Assignments-6363303\\Week-2\\2_2_MOQ_NUNIT\\NUnit-Handson\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIIT\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
