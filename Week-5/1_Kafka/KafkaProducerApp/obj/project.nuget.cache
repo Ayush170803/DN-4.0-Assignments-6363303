@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipRhuxQIR2k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\DN-4.0-Assignments-6363303\\Week-5\\1_Kafka\\KafkaProducerApp\\KafkaProducerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
